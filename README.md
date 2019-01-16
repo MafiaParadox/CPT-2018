@@ -10,3 +10,7 @@ Focus on:
           --> Player Movement with keys
           
           --> Targets Randomized Movements 
+          
+          --> Player Getting Hit by Enemies
+          
+          --> Heart Counter
